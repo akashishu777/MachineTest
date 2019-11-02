@@ -1,13 +1,12 @@
 # MachineTest
 
 For running Front-End
-cd frontend
-npm install
-npm start
+1. cd frontend
+2. npm install
+3. npm start
 
 
 For Running Backend
-cd backend
-npm install
-node server
-
+1. cd backend
+2. npm install
+3. node server
